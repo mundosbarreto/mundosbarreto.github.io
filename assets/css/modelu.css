@@ -1,0 +1,46 @@
+.jumbotron{
+	background-color: #78f!important;
+}
+.bg-silver{
+	background-color: #78f!important;
+}
+/*color*/
+.bg-salmon{
+	background-color: salmon!important;
+}
+.bg-white{
+	background-color: #fff!important;
+}
+.card{
+	background-color: transparent;
+}
+
+.txt-salmon{
+	color: salmon;
+}
+/*txt color*/
+.txt-mutin{
+	color: #fff!important;
+}
+.txt-orange{
+	color: orange;
+}
+section{
+	margin: 0;
+	padding: 0;
+}
+
+/*border */
+.bt{
+	border-bottom: 2px solid orange;
+}
+.btop{
+	border-top: 2px solid orange!important;
+}
+.img-cursor{
+	cursor: pointer!important;
+}
+.a{
+	color: salmon!important;
+	text-decoration: none!important;
+}
